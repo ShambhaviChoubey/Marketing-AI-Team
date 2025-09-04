@@ -81,12 +81,4 @@ Various sub-workflows require external API keys to function:
 *   **Tools:** `Create Image`, `Edit Image`, `Search Images`, `Blog Post`, `LinkedIn Post`, `Video`
 *   **Output:** `Telegram` (Response)
 
-## Support & Resources
 
-*   **Author:** Nate Herk
-*   **Video Tutorial:** [Watch on YouTube](https://www.youtube.com/@nateherk/videos)
-*   **Community & Templates:** [Free Skool Community](https://www.skool.com/community) (Link provided in video description)
-
-## Disclaimer
-
-This workflow integrates with multiple third-party APIs (OpenRouter, Runway, ElevenLabs, etc.). Costs are associated with using these services, and you are responsible for managing your usage and API budgets. Always check the latest pricing for each service.
